@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(23, 93, 134);
+    color: white;
+}
+.heading{
+    background-color: black;
+    border-radius: 10px;
+    font-size: 27px;
+    letter-spacing: 10px;
+}
+span {
+    font-size: 35px;
+  }
+  
+  label{
+    font-size: 17px;
+    color: rgb(62, 184, 255);
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+    width: 190px;
+  }
+  
+  #camera,
+  #result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+  }
+  
+  #result_emotion_name,
+  #result_emotion_name2 {
+    color: black;
+  }
+  
+  .emotion_name {
+    font-size: 40px;
+  }
+  
+  .emoji {
+    font-size: 48px;
+  }
+  .capture{
+      background-color: rgb(23, 93, 134);
+      border: 3px white;
+      border-style: solid;
+      color: white;
+      font-size: 18px;
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+  .predict{
+    background-color: white;
+    border: 3px white;
+    border-style: solid;
+    color: black;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
