@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(23, 93, 134);
+    background-color: rgb(13, 130, 198);
     color: white;
 }
 .heading{
@@ -41,7 +41,7 @@ span {
     font-size: 48px;
   }
   .capture{
-      background-color: rgb(23, 93, 134);
+      background-color: rgb(13, 130, 198);
       border: 3px white;
       border-style: solid;
       color: white;
